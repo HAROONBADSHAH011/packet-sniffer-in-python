@@ -1,1 +1,1 @@
-# packet-sniffer-in-python
+# packet-sniffer-in-python .A pure-Python packet sniffer utilizing raw sockets to capture, parse, and analyze Ethernet, IP, TCP, and UDP traffic in real time. Built without external dependencies, it offers a lightweight alternative to Wireshark for command-line network diagnostics and protocol learning.
